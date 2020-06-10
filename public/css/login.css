@@ -1,0 +1,23 @@
+body {
+	background: url(../images/bg.jpg)no-repeat;
+	width: 100%;
+    object-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.row h1,
+.row h6 {
+	color: blue;
+	background-color: white;
+	opacity: 50%;
+}
+
+.row h3{
+	color: #ffa500;
+	margin-top: 30px;
+}
+
+form {
+	opacity: 90%;
+}
